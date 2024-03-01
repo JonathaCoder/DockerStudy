@@ -1,4 +1,7 @@
-<h1>Docker Study</h1>  ![dockerIcon](https://github.com/JonathaCoder/DockerStudy/assets/123656886/41e6655a-30fc-4828-97bd-bbb8694d4ac1)
+<h1>Docker Study</h1>  
+
+![dockerIcon](https://github.com/JonathaCoder/DockerStudy/assets/123656886/41e6655a-30fc-4828-97bd-bbb8694d4ac1)
+
 
 #Fims 
 
