@@ -24,7 +24,7 @@ e aprendendo a utilizar ele em ambientes de produção Real
     <li>clone o Repositorio<li/>
 
     ##rode o codigo 
-    ```rh
+    ```sh
      docker build . 
     ```
 </ol>
