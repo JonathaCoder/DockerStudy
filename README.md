@@ -2,7 +2,7 @@
 
 #Fims 
 
-<h3>este projeto foi criado para fins de estudos,  sendo um aprendizado muito interesante ao qual estou desenvolvendo o meu conhecimento em Docker e
+<h3>este projeto foi criado para fins de estudos,  sendo um aprendizado muito interessante ao qual estou desenvolvendo o meu conhecimento em Docker e
 e aprendendo a utilizar ele em ambientes de produção Real
 <h3/>
 
