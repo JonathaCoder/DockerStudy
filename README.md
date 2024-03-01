@@ -23,7 +23,7 @@ e aprendendo a utilizar ele em ambientes de produção Real
     <li>instale o docker na sua maquina <li/>  
     <li>clone o Repositorio<li/>
 </ol>
-
-     ##rode o codigo 
+  ##rode o codigo 
+   
      docker build . 
     
