@@ -2,15 +2,15 @@
 
 #Fims 
 
-<h3>este projeto foi criado para fins de estudos,  sendo um aprendizado muito interessante ao qual estou desenvolvendo o meu conhecimento em Docker e
-e aprendendo a utilizar ele em ambientes de produção Real
+<h3>Este projeto foi criado para fins de estudos,  sendo um aprendizado muito interessante ao qual estou desenvolvendo o meu conhecimento em Docker e
+aprendendo a utilizar ele em ambientes de produção Real
 <h3/>
 
 <h1>O que foi utilizado<h1/>
 
 #Node Express 
 
-<h3>fiz uma aplicação bem simples em node e express para simular um projeto real e conseguir criar e utilizar a imagem do docker<h3/>
+<h3>Fiz uma aplicação bem simples em node e express para simular um projeto real e conseguir criar e utilizar a imagem do docker<h3/>
 
 #Docker 
 
