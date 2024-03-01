@@ -26,7 +26,18 @@ aprendendo a utilizar ele em ambientes de produção Real
     <li>instale o docker na sua maquina <li/>      
     <li>clone o Repositorio<li/>
 </ol>
-  ##rode o codigo 
+  ##rode o codigo para subir o container 
    
      docker build . 
-    
+
+##rode para listar as imagens do docker e copie o image ID
+
+```sh
+docker image list 
+```
+
+##rode o codigo para rodar a imagem 
+
+```sh
+docker run -d -p 3000:3000 --name nome-quevocequiser image ID
+```
